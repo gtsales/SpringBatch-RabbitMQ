@@ -1,0 +1,12 @@
+{"properties": [
+  {
+    "name": "rabbitmq.listener.max.concurrent.consumers",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.listener.max.concurrent.consumers'"
+  },
+  {
+    "name": "rabbitmq.listener.min.concurrent.consumers",
+    "type": "java.lang.String",
+    "description": "A description for 'rabbitmq.listener.min.concurrent.consumers'"
+  }
+]}
